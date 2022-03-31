@@ -8,8 +8,8 @@ Como usar:
 
 ## Notebooks:
 
-* **00 - Exemplo** Exemplo de utilização do colab e introdução ao Python
-* **01 - Representaçoes Moleculares** (Incompleto)
+* **00 - Exemplo** Exemplo de utilização do colab e introdução ao Python [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/teixeirafilipe/LQUMDesignComputacionalFarmacos/blob/main/Notebooks/00_Exemplo.ipynb)
+* **01 - Representaçoes Moleculares** (Incompleto) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/teixeirafilipe/LQUMDesignComputacionalFarmacos/blob/main/Notebooks/01_Representações_moleculares.ipynb)
 * **02 - Exemplo de estudo de QSAR** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/teixeirafilipe/LQUMDesignComputacionalFarmacos/blob/main/Notebooks/02_Modelos_QSAR.ipynb)
 
 
